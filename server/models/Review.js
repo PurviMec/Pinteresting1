@@ -2,7 +2,7 @@ const { Schema } = require('mongoose');
 
 const reviewSchema = new Schema(
   {
-    reviews: {
+    detail: {
       type: String,
       required: true,
       maxlength: 200

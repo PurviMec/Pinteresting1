@@ -1,0 +1,23 @@
+{
+  "name": "pinteresting1-develop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunyaQ/Pinteresting1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunyaQ/Pinteresting1/issues"
+  },
+  "homepage": "https://github.com/JunyaQ/Pinteresting1#readme"
+}
